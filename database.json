@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "vehicles": [
+      "Motocicleta",
+      "Carro",
+      "Caminhão",
+      "Ônibus",
+      "Caminhonete",
+      "Van",
+      "Outros"
+    ],
+    "kmTraveled": 10000,
+    "from": "2020-01-01",
+    "to": "2020-02-01"
+  },
+  {
+    "id": "2",
+    "vehicles": [
+      "Barco"
+    ],
+    "kmTraveled": "100",
+    "from": "2000-10-10",
+    "to": "2001-10-10"
+  },
+  {
+    "id": "3",
+    "vehicles": [
+      "Monareta"
+    ],
+    "kmTraveled": "2354589",
+    "from": "2300-10-10",
+    "to": "2400-01-30"
+  },
+  {
+    "id": "3",
+    "vehicles": [
+      "Tobata"
+    ],
+    "kmTraveled": "20000",
+    "from": "1900-10-10",
+    "to": "2000-10-10"
+  }
+]
